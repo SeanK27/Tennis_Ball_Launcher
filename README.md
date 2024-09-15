@@ -3,7 +3,7 @@ The Tennis ball launcher is a personal project with the goal of creating a handh
 
 ## Features
 - Max range of ~20ft
-- Can shoot consequtively ~3 balls at max distance
+- Can shoot consecutively ~3 balls at max distance
 - 12V wall adapter/12V Lead Acid Battery Powered
 
 ## Materials
